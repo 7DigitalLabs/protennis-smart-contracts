@@ -32,10 +32,10 @@
 
 ## Repositories
 
-| Repo | Stack | Descrizione |
+| Repo | Stack | Description |
 |:-----|:------|:------------|
-| [**protennis-smart-contracts**](https://github.com/7DigitalLabs/protennis-smart-contracts) | Solidity · Hardhat 3 · Viem | Contratti on-chain: pool con bonding curve, AMM, raffle rimborsabile, router DEX, engagement renewal |
-| [**protennis-backend**](https://github.com/7DigitalLabs/protennis-backend) | Express 5 · TypeScript · MongoDB | API server: firma ordini EIP-712, gestione utenti, integrazione Odos, scheduling tornei, airdrop |
+| [**protennis-smart-contracts**](https://github.com/7DigitalLabs/protennis-smart-contracts) | Solidity · Hardhat 3 · Viem | On-chain contracts: bonding curve pool, AMM, refundable raffle, DEX routers, engagement renewal |
+| [**protennis-backend**](https://github.com/7DigitalLabs/protennis-backend) | Express 5 · TypeScript · MongoDB | API server: EIP-712 order signing, user management, Odos integration, tournament scheduling, airdrop |
 
 ---
 
