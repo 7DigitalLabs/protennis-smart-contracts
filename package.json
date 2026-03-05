@@ -1,0 +1,35 @@
+{
+  "name": "protennis-smart-contracts",
+  "version": "1.0.0",
+  "description": "ProTennis Smart Contracts",
+  "author": "ProTennis",
+  "license": "MIT",
+  "scripts": {
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-keystore": "^3.0.0",
+    "@nomicfoundation/hardhat-network-helpers": "^3.0.1",
+    "@nomicfoundation/hardhat-node-test-runner": "^3.0.0",
+    "@nomicfoundation/hardhat-toolbox-viem": "^5.0.0",
+    "@nomicfoundation/hardhat-verify": "^3.0.3",
+    "@nomicfoundation/hardhat-viem": "^3.0.0",
+    "@nomicfoundation/hardhat-viem-assertions": "^3.0.0",
+    "@openzeppelin/merkle-tree": "^1.0.8",
+    "@types/node": "^22.8.5",
+    "@types/validator": "^13",
+    "dotenv": "^17.2.3",
+    "hardhat": "^3.0.7",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "~5.8.0",
+    "viem": "^2.30.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "mongoose": "^9.0.1",
+    "validator": "^13.15.23"
+  },
+  "type": "module",
+  "packageManager": "yarn@4.9.2+sha512.1fc009bc09d13cfd0e19efa44cbfc2b9cf6ca61482725eb35bbc5e257e093ebf4130db6dfe15d604ff4b79efd8e1e8e99b25fa7d0a6197c9f9826358d4d65c3c"
+}

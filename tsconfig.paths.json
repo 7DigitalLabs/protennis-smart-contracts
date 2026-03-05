@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@typechain": ["./typechain-types"],
+      "@contracts/*": ["./contracts/*"],
+      "@scripts/*": ["./scripts/*"],
+      "@test/*": ["./test/*"]
+    }
+  }
+}
+

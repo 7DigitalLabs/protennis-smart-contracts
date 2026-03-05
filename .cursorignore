@@ -1,0 +1,15 @@
+# Add directories or file patterns to ignore during indexing (e.g. foo/ or *.csv)
+
+# File sensibili
+.env
+.env.*
+*.pem
+*.key
+
+# Credenziali
+credentials.json
+secrets.json
+
+# Altri dotfiles sensibili
+.npmrc
+.yarnrc
